@@ -10,3 +10,9 @@
 .p_textwrap {
     width: 600px;
 }
+.opinion_list_item {
+    margin-bottom: 10px;
+}
+.opinion_list_content {
+    width: 800px;
+}
