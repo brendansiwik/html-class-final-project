@@ -8,11 +8,33 @@
     background-color: #333;
 }
 .p_textwrap {
-    width: 600px;
+    width: 800px;
 }
+
+/* The titles of the games in my list of my opionions of the games */
 .opinion_list_item {
     margin-bottom: 10px;
 }
+/* My opinion on each game */
 .opinion_list_content {
     width: 800px;
+}
+.left_side_div {
+    float: left;
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.right_side_div {
+    float: right;
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.manual_picture {
+    height: 90px;
+}
+.image_caption {
+    width: 400px;
+    font-size: 12px;
 }
