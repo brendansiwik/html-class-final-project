@@ -22,3 +22,9 @@
 body{
     background-color: #1A1A1A;
 }
+.navbar-logo {
+    float: right;
+    height: 45px;
+    margin-top: 2px;
+    margin-right: 4px;
+}
